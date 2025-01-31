@@ -1,2 +1,2 @@
-# ArduinoEncoder
-Internet of Things project
+# Arduino-Encoder
+The project was created as part of learning programming in the Arduino environment at university and aims to present the ability to control an RGB diode using an LCD display and an encoder. The program allows you to create a scrollable menu in which the user can switch between options using the encoder, and the selection of options is made using a button. The project includes functionalities such as turning the diode on and off and, optionally, adjusting the brightness of individual colors of the RGB diode. The whole thing has been designed using interrupts, which are triggered when the encoder state changes, which allows for smooth and effective management of interactions with the user.
